@@ -27,7 +27,7 @@ A comprehensive AI-powered web application for predicting student academic perfo
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://cerulean-jelly-57b40b.netlify.app](https://cerulean-jelly-57b40b.netlify.app)
+Visit the live application: [https://smartgpa.netlify.app/](https://smartgpa.netlify.app/)
 
 ## 📊 Input Parameters
 
@@ -231,14 +231,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vite** for the fast build tool
 - **Educational Research Community** for insights into student performance factors
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/student-performance-prediction/issues) page
-2. Create a new issue with detailed information
-3. Contact the development team
-
 ## 🔮 Future Enhancements
 
 - **Real-time Data Integration**: Connect with student information systems
@@ -247,7 +239,3 @@ If you encounter any issues or have questions:
 - **Multi-language Support**: Internationalization for global use
 - **Advanced Visualizations**: 3D charts and interactive dashboards
 - **API Integration**: RESTful API for third-party integrations
-
----
-
-**Built with ❤️ for educators and students worldwide**
