@@ -2,7 +2,8 @@
 
 A comprehensive AI-powered web application for predicting student academic performance and identifying at-risk students. Built with React, TypeScript, and Tailwind CSS, featuring machine learning algorithms to analyze student data and provide actionable insights.
 
-![Student Performance Prediction System](https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+<img src="https://raw.githubusercontent.com/Thoyyibhans/Student-Performance-Prediction-System/main/images.png">
+
 
 ## 🌟 Features
 
