@@ -56,22 +56,22 @@ The system analyzes the following student factors:
 
 ```
 src/
-├── components/           # React components
-│   ├── Analytics.tsx    # Advanced analytics dashboard
-│   ├── BatchProcessor.tsx # CSV upload and batch processing
-│   ├── Dashboard.tsx    # Main dashboard with metrics
-│   ├── Header.tsx       # Application header
-│   ├── Navigation.tsx   # Tab navigation
-│   ├── PerformanceChart.tsx # Performance visualization
-│   ├── PredictionForm.tsx # Single prediction form
-│   └── RecentPredictions.tsx # Recent predictions table
-├── types/               # TypeScript type definitions
-│   └── index.ts        # Core data types
-├── utils/              # Utility functions
-│   └── mlModel.ts      # Machine learning model simulation
-├── App.tsx             # Main application component
-├── main.tsx           # Application entry point
-└── index.css          # Global styles
+├── components/           
+│   ├── Analytics.tsx    
+│   ├── BatchProcessor.tsx 
+│   ├── Dashboard.tsx   
+│   ├── Header.tsx       
+│   ├── Navigation.tsx   
+│   ├── PerformanceChart.tsx 
+│   ├── PredictionForm.tsx 
+│   └── RecentPredictions.tsx 
+├── types/              
+│   └── index.ts        
+├── utils/              
+│   └── mlModel.ts      
+├── App.tsx            
+├── main.tsx           
+└── index.css         
 ```
 
 ## 🚀 Getting Started
